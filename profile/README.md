@@ -32,6 +32,6 @@ Please note that ESUI follows a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure 
 
 ## Contact Us
 
-If you have any questions, suggestions, or just want to share your love for cats, feel free to reach out to us. You can contact the ESUI team via email at ESUI@example.com or by opening an issue in the repository.
+If you have any questions, suggestions, or just want to share your love for cats, feel free to reach out to us. You can contact the ESUI team via email at (tba) or by opening an issue in the repository.
 
 Let's build the ultimate collection of cat-related repositories together! Meow 🐾
